@@ -1,0 +1,71 @@
+# Primary Music AI Slideshows
+
+A practical method for creating image-led LDS Primary song slideshows that help children **learn and recall lyrics**, not merely look at attractive pictures.
+
+The central test is simple:
+
+> If the lyric text were covered, could a four- or five-year-old use the picture to remember the key word or phrase?
+
+Each slide should earn at least **4 out of 5** on that test before the deck is finished.
+
+## What this method emphasizes
+
+- One clear visual memory cue for each important lyric phrase
+- A specific key word or phrase assigned to every slide
+- A recurring cast and one unified illustration style
+- Historically believable people, clothing, settings, and demographics
+- Reverent, doctrinally responsible treatment of sacred subjects
+- Large, accurate lyrics readable from across a Primary room
+- Rendering and inspecting the completed deck before delivery
+- Revising only the slides whose image-to-lyric connection is weaker than 4/5
+
+## Quick-start prompt
+
+Copy this prompt, add your song lyrics, and provide the detailed instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) as project or system guidance:
+
+```text
+Create an image-led slideshow to help young Primary children learn the song below. Break the lyrics into clear, memorable visual moments, using one image per important action or phrase rather than forcing each printed line onto one slide.
+
+Follow the Primary slideshow instructions, especially the requirements for a consistent recurring cast, one unified illustration style, historical and doctrinal accuracy, historically plausible demographics, believable clothing and physical conditions, and reverent sacred imagery.
+
+First propose the slide sequence and visual concept for each slide. For every slide, identify the lyric's key memory word or phrase and make it unmistakably visible through the image's central action, object, gesture, or composition. A young child should be able to use the picture to recall that word without reading the text.
+
+Then create the illustrations as a matched set and assemble the slideshow. Keep the lyrics large and readable from across a Primary room. Render and inspect the completed slides together. With the lyric text mentally covered, score each image-to-lyric connection from 1 to 5 and revise every slide below 4/5. Also correct inconsistent characters, mismatched actions, historical problems, anachronisms, inappropriate sacred imagery, or overly glamorous portrayals before delivering the final deck.
+
+Song lyrics:
+[PASTE THE AUTHORIZED LYRICS HERE]
+```
+
+## The 4/5 visual-memory test
+
+| Score | What the picture communicates |
+|---|---|
+| 5 | The key lyric is unmistakable without text. |
+| 4 | The intended phrase is clear with only a small amount of context. |
+| 3 | The picture fits the general idea, but several lyrics could use the same image. |
+| 2 | The connection depends mostly on explanation or printed words. |
+| 1 | The image is mismatched, confusing, or misleading. |
+
+A beautiful illustration can still score poorly. Repeated pictures of a child praying may fit a song's mood, but they do not necessarily distinguish **kneel**, **speak**, **thank**, **ask**, **faith**, or **Amen**. Each phrase needs its own visual vocabulary.
+
+## Recommended workflow
+
+1. Verify the authorized lyrics and identify the doctrine and emotional progression.
+2. Divide the song into memorable visual moments.
+3. Assign one key memory word or phrase to every slide.
+4. Define the recurring cast and visual specification.
+5. Verify historical, architectural, scriptural, and doctrinal details.
+6. Resolve sacred-imagery concerns before generating art.
+7. Create the illustrations as one matched set.
+8. Compare all illustrations for continuity and accuracy.
+9. Assemble the deck with large, high-contrast lyrics.
+10. Render the actual slides and inspect cropping and readability.
+11. Hide the lyrics mentally, score every image connection, and revise anything below 4/5.
+12. Deliver only after the final deck passes both the visual-memory and technical checks.
+
+## Important notice
+
+This is an independent teaching-aid method and is **not an official publication of The Church of Jesus Christ of Latter-day Saints**. AI-generated illustrations should be identified as such when shared beyond a local classroom and should never be presented as official Church artwork, authentic historical photographs, or eyewitness records.
+
+See [INSTRUCTIONS.md](INSTRUCTIONS.md) for the complete planning, illustration, sacred-imagery, historical-accuracy, assembly, and review guidance.
+
