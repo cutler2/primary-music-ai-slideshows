@@ -19,7 +19,63 @@ Each slide should earn at least **4 out of 5** on that test before the deck is f
 - Rendering and inspecting the completed deck before delivery
 - Revising only the slides whose image-to-lyric connection is weaker than 4/5
 
-## Quick-start prompt
+## Use this workspace in Codex
+
+Open this repository folder in Codex and give the actual song title:
+
+```text
+Use INSTRUCTIONS.md as the governing instructions for this project.
+Help me create a Primary singing-time slideshow for [song].
+```
+
+Replace `[song]` with the title and include the verses you want. Existing song
+files are reused, so you do not need to upload the same material each time.
+The root [AGENTS.md](AGENTS.md) routes future project work to the instructions
+and the reusable skill.
+
+The full skill lives in
+[.codex/skills/create-primary-music-slideshows/SKILL.md](.codex/skills/create-primary-music-slideshows/SKILL.md).
+A small entry point in `.agents/skills` enables automatic repository discovery,
+following [current Codex skill guidance](https://learn.chatgpt.com/docs/build-skills).
+If it does not appear in the skill picker, restart Codex. You can also explicitly
+ask Codex to read the full skill path above.
+
+For personal use outside this repository, copy the complete
+`.codex/skills/create-primary-music-slideshows` folder into your user skill
+directory (currently `~/.agents/skills` in the linked documentation). Copy the
+full skill, not the repository entry point, whose relative link depends on this
+repository. No personal installation is required to use this workspace.
+
+## Retained song files
+
+```text
+Primary/
+├── AGENTS.md
+├── README.md
+├── INSTRUCTIONS.md
+├── .agents/skills/create-primary-music-slideshows/SKILL.md
+├── .codex/skills/create-primary-music-slideshows/
+│   ├── SKILL.md
+│   └── references/primary-music-project-instructions.md
+├── songs/
+│   └── song-name/
+│       ├── lyrics.md
+│       ├── storyboard.md
+│       ├── images/
+│       └── slideshow.pptx
+└── references/
+```
+
+Each song folder is created when work on that song begins. Storyboards retain
+the cast, visual style, sources, prompts, and review progress. Assembly files and
+previews can also be retained for later revisions. Local storage saves repeated
+uploads and reconstruction; it does not inherently reduce model reasoning or
+image-generation usage.
+
+`INSTRUCTIONS.md` remains authoritative. Its bundled skill reference is an exact
+copy for portability and must be refreshed whenever the root instructions change.
+
+## Quick-start prompt without the local skill
 
 Copy this prompt, add your song lyrics, and provide the detailed instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) as project or system guidance:
 
