@@ -127,8 +127,8 @@ def navy(top):
 
 
 def add_bg(slide, img, tmp, name):
-    p = Path(tmp) / f"{name}.png"
-    img.save(p)
+    p = Path(tmp) / f"{name}.jpg"
+    img.convert("RGB").save(p, quality=90, subsampling=0)
     slide.shapes.add_picture(str(p), 0, 0, Inches(W_IN), Inches(H_IN))
 
 

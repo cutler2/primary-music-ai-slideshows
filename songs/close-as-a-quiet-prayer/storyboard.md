@@ -91,3 +91,14 @@ Filled in after images are generated (with the lyrics covered, 1–5).
 
 | Image | Score | Note |
 |---|---|---|
+| 01 | 5 |  |
+| 02 | 4 | sleeping sister carries whisper |
+| 03 | 5 | refrain, used 4× |
+| 04 | 5 |  |
+| 05 | 5 | Dad smiling at singing Sione |
+| 06 | 5 |  |
+| 07 | 4 | panel borders run behind lyric text; readable |
+| 08 | 4 |  |
+| 09 | 4 | hand on heart reads; busy scene |
+| 10 | 5 | Dad hug + quilt |
+| 11 | 5 | title art |
