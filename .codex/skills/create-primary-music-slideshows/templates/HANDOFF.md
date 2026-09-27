@@ -11,7 +11,7 @@ Read this first. Update it before you stop. `storyboard.md` is authoritative for
 
 ## Status
 
-Deck type: <illustrated | text-only> · Images live in: <repo images/ | local song folder path>
+Deck type: <illustrated | text-only>
 
 | # | Key word | Prompt | Image | Score | Notes |
 |---|---|---|---|---|---|

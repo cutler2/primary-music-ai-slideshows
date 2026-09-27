@@ -97,6 +97,6 @@ python3 singalong_deck.py song.json -o "Song Title - singalong.pptx" --png
 }
 ```
 
-A slide is a string (with `" / "` for explicit breaks) or a list of lines. `--png` writes 1920 × 1080 exports next to the deck. In a public repository, keep `song.json` (which contains full lyrics) in the local song folder, not in the repo.
+A slide is a string (with `" / "` for explicit breaks) or a list of lines. `--png` writes 1920 × 1080 exports next to the deck. Keep `song.json` in the song folder.
 
 To restyle the whole system (a different ground color for a Christmas song, larger type for a big room), change the constants in the **DESIGN SPEC** block at the top of the script. Nothing below that block needs editing.

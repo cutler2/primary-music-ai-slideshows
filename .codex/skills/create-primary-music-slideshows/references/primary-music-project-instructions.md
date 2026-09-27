@@ -494,7 +494,7 @@ More than one AI tool may work on the same song — for example, one tool plans,
 * **Read `HANDOFF.md` first.** Every session on a song starts by reading its `HANDOFF.md` and ends by updating it: what was done, what is next, and who has it.
 * **Keep image-tool sessions small.** The image tool needs only the cast sheet, the style specification, and one self-contained prompt per image, taken from the song's `prompts.md`. It does not need this full document or the storyboard.
 * **Do not carry cast or setting forward from memory or from an older handoff note.** The current song's `storyboard.md` is authoritative; older handoff documents outside the repository may be stale.
-* **Respect the lyric permission in a public repository.** The usual permission covers incidental, noncommercial Church or home use. If this repository is public, do not commit full lyric text: record the source, version, and verification in `lyrics.md`, identify slides by their opening words and key word, and keep the full text in the local song folder.
+* **Keep the verified lyrics with the song.** Commit the full, verified lyric text to `lyrics.md` with its source, hymn number, version, and copyright notice, so every tool builds from the same wording.
 
 # Required Creation Workflow
 

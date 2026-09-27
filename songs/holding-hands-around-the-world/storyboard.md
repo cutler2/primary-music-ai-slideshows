@@ -6,7 +6,7 @@
 
 **Wording verified:** the older *Friend* sheet music opens both verses "There are children"; hymn 1011 reads "We are children." The deck uses the hymnbook wording.
 
-Full lyrics are not stored in this public repository. Slides are identified by opening words and key word.
+Full lyrics: [lyrics.md](lyrics.md).
 
 **Scope:** both verses, chorus generated once and reused. **21 unique images + title image; 26 lyric positions.** Every slide scored 4 or higher; 12 scored 5.
 
