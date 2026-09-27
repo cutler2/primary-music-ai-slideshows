@@ -57,14 +57,18 @@ Primary/
 ├── .agents/skills/create-primary-music-slideshows/SKILL.md
 ├── .codex/skills/create-primary-music-slideshows/
 │   ├── SKILL.md
-│   └── references/primary-music-project-instructions.md
+│   ├── references/primary-music-project-instructions.md
+│   └── templates/ (HANDOFF.md, prompts.md)
 ├── songs/
 │   └── song-name/
+│       ├── HANDOFF.md      ← read first, update last
 │       ├── lyrics.md
 │       ├── storyboard.md
+│       ├── prompts.md
 │       ├── images/
 │       └── slideshow.pptx
 └── references/
+    └── text-slide-design-spec.md
 ```
 
 Each song folder is created when work on that song begins. Storyboards retain
@@ -75,6 +79,21 @@ image-generation usage.
 
 `INSTRUCTIONS.md` remains authoritative. Its bundled skill reference is an exact
 copy for portability and must be refreshed whenever the root instructions change.
+
+## Working across tools
+
+Different tools can share one song folder, for example Claude for planning and assembly and ChatGPT for images. `songs/<song>/HANDOFF.md` says where the work stands, what's next, and who has it; `storyboard.md` holds every decision. Each session reads HANDOFF.md first and updates it last. A tool that can't write to the repo prints the lines to add.
+
+To keep image sessions small, give the image tool only the cast sheet and the prompts it needs:
+
+```text
+Generate images for my Primary song. Read songs/<song-slug>/prompts.md in
+github.com/cutler2/primary-music-ai-slideshows. Use the attached cast sheet as
+the character reference. Generate prompts <NN>–<NN>, 16:9, no text in images.
+Tell me each image's pixel dimensions.
+```
+
+This repository is public, so full lyric text stays in the local song folder; `lyrics.md` records source, number, and verification. [songs/holding-hands-around-the-world](songs/holding-hands-around-the-world/) is a finished example.
 
 ## Quick-start prompt without the local skill
 

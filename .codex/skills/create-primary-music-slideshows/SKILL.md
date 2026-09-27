@@ -11,13 +11,15 @@ Read the workspace's root INSTRUCTIONS.md before planning or editing a slideshow
 
 ## Start or resume a song
 
-Inspect existing files in songs/ before asking for information or recreating work. Ask for the song title when missing: a literal [song] is an unfilled placeholder, not a song selection. Resolve consequential ambiguities about version and verses. Use existing lyrics and preferences when supplied. Obtain and verify the complete authorized wording before illustration; do not invent or paraphrase lyrics. Respect applicable content-use restrictions and request user-supplied lyrics when needed.
+If songs/<song-slug>/HANDOFF.md exists, read it first and pick up from its "Next up" block. Then inspect existing files in songs/ before asking for information or recreating work. Ask for the song title when missing: a literal [song] is an unfilled placeholder, not a song selection. Resolve consequential ambiguities about version and verses. Use existing lyrics and preferences when supplied. Obtain and verify the complete authorized wording before illustration; do not invent or paraphrase lyrics. Respect applicable content-use restrictions and request user-supplied lyrics when needed.
 
 Use songs/<song-slug>/ for each song, with:
 
-- lyrics.md: selected verses, exact usable lyrics, source and version.
-- storyboard.md: the ordered slide plan, cast, visual specification, verified sources, image prompts and progress.
-- images/: retained illustrations with stable slide-number filenames.
+- HANDOFF.md: current status, the next action and who owns it, and a dated log of sessions. Start from [templates/HANDOFF.md](templates/HANDOFF.md).
+- lyrics.md: source, hymn number, version, verification, and selected verses. Include the full lyric text only if the repository is private; otherwise keep it in the local song folder (see the governing instructions on lyric permission).
+- storyboard.md: the ordered slide plan, cast, visual specification, verified sources, decisions, and review scores. Authoritative for cast and style.
+- prompts.md: the cast-sheet prompt, the style specification, and one self-contained image prompt per slide, ready to paste into an image tool. Start from [templates/prompts.md](templates/prompts.md).
+- images/: the cast sheet (cast-sheet.png) and retained illustrations with stable slide-number filenames (NN.png). Large image sets may stay in the local song folder instead; HANDOFF.md records where they are.
 - slideshow.pptx: the completed deck.
 
 Create those artifacts as work reaches each stage, not as empty deliverables. Retain assembly source and rendered previews in the song folder when useful for revisions. Use root references/ for shared research and reusable reference assets. Preserve passing slides and user edits when continuing work.
@@ -41,6 +43,34 @@ Generate illustrations without lyrics embedded in the art. Check every image's a
 Inspect every slide at full size and room-viewing distance for lyric accuracy, continuity, cropping, readability, historical and doctrinal accuracy. With lyrics mentally covered, score the image's memory cue from 1 to 5; check whether another object, symbol, or dramatic setting hijacks the intended cue. Record scores in storyboard.md and revise every slide below 4, preserving slides that already pass. Complete the governing final review checklist before delivery. Never claim rendering, inspection, or a successful file-open check that was not performed.
 
 Deliver a link to the finished slideshow and disclose any limitation that affects classroom use. Keep build notes out of children's slides. When sharing beyond the local classroom, identify AI illustrations and clarify that the deck is not an official Church publication.
+
+## Hand off between tools
+
+Different tools can own different stages of the same song. A typical split:
+
+| Stage | Usual owner |
+|---|---|
+| Verify lyrics, storyboard, cast, style, write prompts.md | Planner (for example Claude or Codex) |
+| Cast sheet and scene images | Image tool (for example ChatGPT) |
+| Save images into images/ with the right filenames | Music leader |
+| Dimension check, 1–5 scoring, revision prompts, assembly, render, final review | Planner |
+
+Whoever finishes a session updates HANDOFF.md before stopping:
+
+1. Update the status table rows you touched (prompt ready → generated → accepted, with score).
+2. Rewrite the "Next up" block: the single next action, who owns it, and exactly what they need (which prompts, which files).
+3. Add one dated line to the log: tool, what changed, any decision made (and confirm that decision is also in storyboard.md).
+
+A tool that cannot write to the repository ends its session by printing the exact HANDOFF.md lines to add, so the music leader or the next tool can commit them.
+
+For an image-tool session, give it only: the cast sheet image, the style specification, and the prompts named in "Next up". A short opener is enough:
+
+```text
+Generate images for my Primary song. Read songs/<song-slug>/prompts.md in
+github.com/cutler2/primary-music-ai-slideshows. Use the attached cast sheet as
+the character reference. Generate prompts <NN>–<NN>, 16:9, no text in images.
+Tell me each image's pixel dimensions.
+```
 
 ## Maintenance
 

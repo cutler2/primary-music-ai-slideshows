@@ -462,6 +462,7 @@ Relevant Church guidance:
 * Group natural lyric phrases when one visual can teach them together, with a maximum of two lyric lines on a slide. Split an overloaded pair into separate visual moments; do not force each printed line onto its own slide.
 * Place manual line breaks at phrase boundaries rather than allowing an awkward mid-phrase wrap.
 * Preserve the song’s exact authorized wording.
+* Verify the number and wording against the current *Hymns—For Home and Church* in Gospel Library before building. The 2026 book renumbered songs carried over from the *Children’s Songbook* and the *Friend*, and revised some wording (for example, “There are children” became “We are children” in hymn 1011). Record what was verified and where.
 * Check spelling, punctuation, repeated words, and line order.
 * Do not paraphrase lyrics unless the user specifically requests a teaching explanation.
 * Keep text placement and typography consistent throughout the deck.
@@ -480,6 +481,20 @@ Relevant Church guidance:
 * Do not include a title slide unless it is helpful or requested.
 * Avoid unnecessary animations, transitions, or visual effects.
 * Keep the deck focused on singing rather than passive viewing.
+
+# Text-only Singalong Decks
+
+Some songs are better served by lyrics alone. Text-only decks follow [references/text-slide-design-spec.md](references/text-slide-design-spec.md): dark navy ground, cream Arial Bold, one computed type size for the whole deck, and phrase-aware line breaks. Because there is no picture carrying the phrase, a text-only slide may hold up to four lines; the two-line maximum above applies to illustrated decks. The key-word memory test and the recurring-cast rules do not apply to text-only decks, and they carry no AI illustration disclosure.
+
+# Shared Song Workspace and Handoffs
+
+More than one AI tool may work on the same song — for example, one tool plans, writes prompts and assembles the deck while another generates images. They share one song folder, and the folder, not any chat, is the record.
+
+* **Nothing is decided until it is in the song folder.** A change to the cast, visual style, slide grouping, key words, or lyric wording goes into `storyboard.md` in the same session it is agreed. A decision that exists only in a chat conversation is invisible to the next tool and will be lost.
+* **Read `HANDOFF.md` first.** Every session on a song starts by reading its `HANDOFF.md` and ends by updating it: what was done, what is next, and who has it.
+* **Keep image-tool sessions small.** The image tool needs only the cast sheet, the style specification, and one self-contained prompt per image, taken from the song's `prompts.md`. It does not need this full document or the storyboard.
+* **Do not carry cast or setting forward from memory or from an older handoff note.** The current song's `storyboard.md` is authoritative; older handoff documents outside the repository may be stale.
+* **Respect the lyric permission in a public repository.** The usual permission covers incidental, noncommercial Church or home use. If this repository is public, do not commit full lyric text: record the source, version, and verification in `lyrics.md`, identify slides by their opening words and key word, and keep the full text in the local song folder.
 
 # Required Creation Workflow
 
@@ -503,6 +518,8 @@ For every illustrated Primary slideshow:
 16. With the lyric text mentally covered, score every image-to-lyric connection from 1 to 5.
 17. Revise every slide below 4/5 while preserving slides that already pass.
 18. Correct all discovered problems before delivering the final file.
+
+Throughout, record each decision in the song's `storyboard.md` as it is made, and update `HANDOFF.md` at the end of every session.
 
 # Final Review Checklist
 
@@ -570,3 +587,4 @@ Before delivering an illustrated Primary slideshow, confirm all of the following
 * The deck opens and displays correctly.
 * The final downloadable file has been tested.
 * The slideshow is complete and ready to use without additional repair.
+* The song's `storyboard.md` and `HANDOFF.md` reflect the final state, including scores and any decisions made along the way.
