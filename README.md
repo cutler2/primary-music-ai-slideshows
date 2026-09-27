@@ -12,7 +12,8 @@ Each slide should earn at least **4 out of 5** on that test before the deck is f
 
 - One clear visual memory cue for each important lyric phrase
 - A specific key word or phrase assigned to every slide
-- A recurring cast and one unified illustration style
+- A fresh cast and visual world for each song, with character and style continuity within that song
+- Natural lyric grouping, up to two displayed lines per slide
 - Historically believable people, clothing, settings, and demographics
 - Reverent, doctrinally responsible treatment of sacred subjects
 - Large, accurate lyrics readable from across a Primary room
@@ -80,9 +81,9 @@ copy for portability and must be refreshed whenever the root instructions change
 Copy this prompt, add your song lyrics, and provide the detailed instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) as project or system guidance:
 
 ```text
-Create an image-led slideshow to help young Primary children learn the song below. Break the lyrics into clear, memorable visual moments, using one image per important action or phrase rather than forcing each printed line onto one slide.
+Create an image-led slideshow to help young Primary children learn the song below. Break the lyrics into clear, memorable visual moments. Group natural phrases into no more than two displayed lyric lines per slide, rather than forcing each printed line onto one slide.
 
-Follow the Primary slideshow instructions, especially the requirements for a consistent recurring cast, one unified illustration style, historical and doctrinal accuracy, historically plausible demographics, believable clothing and physical conditions, and reverent sacred imagery.
+Follow the Primary slideshow instructions, especially the requirements for a fresh cast and visual world for this song (unless I request cross-song reuse), a consistent cast and style within this deck, historical and doctrinal accuracy, historically plausible demographics, believable clothing and physical conditions, and reverent sacred imagery.
 
 First propose the slide sequence and visual concept for each slide. For every slide, identify the lyric's key memory word or phrase and make it unmistakably visible through the image's central action, object, gesture, or composition. A young child should be able to use the picture to recall that word without reading the text.
 
@@ -109,13 +110,13 @@ A beautiful illustration can still score poorly. Repeated pictures of a child pr
 1. Verify the authorized lyrics and identify the doctrine and emotional progression.
 2. Divide the song into memorable visual moments.
 3. Assign one key memory word or phrase to every slide.
-4. Define the recurring cast and visual specification.
+4. Define this song's fresh cast, plain cast reference sheet, and visual specification.
 5. Verify historical, architectural, scriptural, and doctrinal details.
 6. Resolve sacred-imagery concerns before generating art.
 7. Create the illustrations as one matched set.
-8. Compare all illustrations for continuity and accuracy.
+8. Compare all illustrations for continuity, accurate 16:9 dimensions, and a distinct memory cue.
 9. Assemble the deck with large, high-contrast lyrics.
-10. Render the actual slides and inspect cropping and readability.
+10. Render the actual slides and inspect cropping and readability at full size and room-viewing distance.
 11. Hide the lyrics mentally, score every image connection, and revise anything below 4/5.
 12. Deliver only after the final deck passes both the visual-memory and technical checks.
 
@@ -124,4 +125,3 @@ A beautiful illustration can still score poorly. Repeated pictures of a child pr
 This is an independent teaching-aid method and is **not an official publication of The Church of Jesus Christ of Latter-day Saints**. AI-generated illustrations should be identified as such when shared beyond a local classroom and should never be presented as official Church artwork, authentic historical photographs, or eyewitness records.
 
 See [INSTRUCTIONS.md](INSTRUCTIONS.md) for the complete planning, illustration, sacred-imagery, historical-accuracy, assembly, and review guidance.
-

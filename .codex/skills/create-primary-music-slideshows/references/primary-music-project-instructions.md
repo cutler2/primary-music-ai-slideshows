@@ -68,7 +68,7 @@ Before generating illustrations:
 2. Use one image for each important action, idea, or phrase rather than automatically forcing every printed lyric line onto a separate slide.
 3. Propose the complete slide sequence and visual concept before creating the images.
 4. Identify whether each scene is literal, historical, scriptural, contemporary, or symbolic.
-5. Establish a small recurring cast and a unified visual style.
+5. Design a fresh cast and visual world for this song, then establish a unified visual style within the deck. Reuse another song's cast only when explicitly requested.
 6. Identify any historical, architectural, scriptural, or doctrinal details that require verification.
 7. Decide how sacred references will be communicated without generating inappropriate sacred imagery.
 8. Check that each visual will make sense to a four- or five-year-old without requiring a long explanation.
@@ -95,6 +95,8 @@ Score the image-to-lyric connection:
 * **1 — Mismatched:** The image is confusing, misleading, or unrelated.
 
 Revise every slide below **4 out of 5**. Preserve slides that already pass rather than regenerating them unnecessarily. Highlighting the key word in the lyric text may reinforce learning, but it does not replace a strong picture cue.
+
+Check the *meaning* of the cue, not just its beauty: a symbol may make a child remember a different doctrine or a dramatic setting instead of the assigned word. For abstract lyrics, prefer a concrete action or a grounded two- or three-part progression with a clear reading order. Keep one primary memory cue even when several moments share an image. Avoid surreal visual shorthand that a young child would need explained.
 
 ## Consistent illustration style
 
@@ -127,21 +129,24 @@ Create a brief visual specification for the matched set before generating indivi
 
 Generate all illustrations as a coordinated set whenever possible.
 
+Make a plain cast reference sheet before scene generation when recurring characters appear. Describe their visible identifiers and viewing conditions (projected across a room), without decorating the sheet with the song's motifs. Supply the reference sheet with later image prompts when the tool supports references; repeat a concise style specification if generation spans sessions. Check each output against the sheet instead of trusting a previous prompt alone.
+
 ## Recurring characters
 
-Establish a small recurring cast before creating the individual scenes.
+Each song may have its own cast and visual identity. Establish a small recurring cast for the current song before creating its individual scenes. Do not carry faces, families, clothing, cast sheets, or settings from another song or illustration project unless the user explicitly requests a connected series.
 
 Define each recurring character’s:
 
 * Approximate age
 * Facial features
 * Hair color and style
-* Clothing
+* Skin tone and ethnicity
+* Clothing and its colors
 * Body type
 * Distinctive but historically appropriate identifying details
 * Relationship to the other characters
 
-Reuse the same children, parents, clothing, colors, and character designs whenever practical so the slideshow feels like one continuous story.
+Reuse the current song's children, parents, clothing, colors, and character designs where they strengthen its story. Not every scene needs the whole cast; the lyric may call for an additional person or no people. Make intentional clothing changes, such as a change of occasion, clear without changing the person's identity.
 
 Characters should not inexplicably change:
 
@@ -155,6 +160,8 @@ Characters should not inexplicably change:
 * Illustration style
 
 If the song intentionally moves between different periods, families, or scriptural stories, make those transitions visually clear.
+
+Choose locations to serve this song. Do not default to Utah scenery, red-rock backgrounds, or a temple simply because a previous slideshow used them.
 
 ## Historical accuracy
 
@@ -436,12 +443,13 @@ Relevant Church guidance:
 ## Images
 
 * Use a widescreen 16:9 format unless another format is requested.
-* Compose images with enough open space for lyrics.
-* Keep important faces and actions away from lyric text.
+* Verify the actual dimensions and aspect ratio of every generated image before accepting it; generators can drift between outputs. Correct a mismatch before assembly rather than silently cropping away a key cue.
+* Compose images with calm open space in the intended lyric band, usually the lower third; keep important faces, hands, and actions in the middle or upper band.
 * Do not generate the lyrics inside the illustration itself.
 * Add lyrics separately during slide assembly so spelling and punctuation can be controlled.
 * Avoid meaningless AI-generated writing on books, signs, buildings, clothing, or scenery.
 * Every image should communicate one primary idea clearly.
+* Make symbolic effects unmistakable and restrained: sound marks should read as sound, light should not suggest a person or a fabricated manifestation, and a spark should visibly spark if that is the assigned cue.
 * Avoid overcrowded scenes with too many competing actions.
 * Make the central action understandable from across a Primary room.
 
@@ -451,6 +459,8 @@ Relevant Church guidance:
 * Use a simple, highly legible font.
 * Use strong contrast between lyrics and the background.
 * Use short lyric segments rather than dense paragraphs.
+* Group natural lyric phrases when one visual can teach them together, with a maximum of two lyric lines on a slide. Split an overloaded pair into separate visual moments; do not force each printed line onto its own slide.
+* Place manual line breaks at phrase boundaries rather than allowing an awkward mid-phrase wrap.
 * Preserve the song’s exact authorized wording.
 * Check spelling, punctuation, repeated words, and line order.
 * Do not paraphrase lyrics unless the user specifically requests a teaching explanation.
@@ -464,6 +474,7 @@ Relevant Church guidance:
 * Each slide should correspond clearly to its assigned lyric phrase.
 * Repeated lyrics may reuse an image when repetition supports memory.
 * A repeated phrase may receive a new but closely related image when progression is important.
+* Reuse a passing image for a repeated chorus when it strengthens recall; keep the repeated lyric positions in order.
 * Visual transitions should help children understand the song’s sequence.
 * Avoid unexplained jumps in character, location, season, or period.
 * Do not include a title slide unless it is helpful or requested.
@@ -480,15 +491,15 @@ For every illustrated Primary slideshow:
 4. Assign one key memory word or short phrase to every proposed slide.
 5. Propose the complete slide sequence and visual concept.
 6. Identify literal, historical, scriptural, contemporary, and symbolic scenes.
-7. Establish the recurring cast and visual style.
+7. Establish this song's fresh cast, cast reference sheet when useful, and visual style.
 8. Verify historical, scriptural, doctrinal, and temple details.
 9. Resolve sacred imagery concerns before illustration begins.
 10. Create the illustrations as one matched set.
-11. Review the illustrations together before assembling the slides.
+11. Review the illustrations together before assembling the slides; check actual aspect ratios, cue clarity, and style drift.
 12. Correct inconsistent characters, mismatched actions, historical errors, anachronisms, inappropriate sacred imagery, and overly glamorous portrayals.
 13. Assemble the slideshow with large, accurate lyrics.
 14. Render or preview the completed deck.
-15. Inspect every slide for readability, cropping, image quality, spelling, and lyric accuracy.
+15. Inspect every rendered slide at full size and at projected-room viewing distance for readability, cropping, image quality, spelling, and lyric accuracy.
 16. With the lyric text mentally covered, score every image-to-lyric connection from 1 to 5.
 17. Revise every slide below 4/5 while preserving slides that already pass.
 18. Correct all discovered problems before delivering the final file.
@@ -500,6 +511,7 @@ Before delivering an illustrated Primary slideshow, confirm all of the following
 ## Visual continuity
 
 * The illustration style is consistent throughout.
+* The cast and setting were designed for this song unless cross-song reuse was requested.
 * Recurring characters retain the same faces, ages, hair, clothing, and proportions.
 * Lighting, coloring, linework, and detail remain consistent.
 * The images feel like one coordinated set.
