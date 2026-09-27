@@ -1,6 +1,6 @@
 # Image prompts — Close as a Quiet Prayer
 
-Each prompt stands on its own. Attach `images/cast-sheet.png` to every scene prompt (01–10) once it's accepted. Commit each result to `images/` as `NN.png` (for example `images/04.png`), note its pixel dimensions in HANDOFF.md, and regenerate anything that isn't 16:9.
+Each prompt stands on its own. Attach `images/cast-sheet.png` to every scene prompt (01–11) once it's accepted. Commit each result to `images/` as `NN.png` (for example `images/04.png`), note its pixel dimensions in HANDOFF.md, and regenerate anything that isn't 16:9.
 
 ## Style tail
 
@@ -58,10 +58,10 @@ Using the attached cast sheet for Sione, Mele, Mom and Dad. The family sits arou
 Style: soft watercolor with light colored-pencil linework, storybook illustration, visible paper texture. Gently stylized realism with normal child proportions; no oversized eyes, not anime, not chibi, not 3D, not photoreal. Quiet warm palette of dusk blue, soft lavender, lamplight gold, sage green and cream, low saturation. Soft natural light; no light rays, halos, sparkles or glowing outlines around anyone. Eye level, mid-shot, simple background with at most two or three suggested elements. 16:9 landscape. Keep the bottom third calm and empty of faces, hands and key action. No text, letters or writing anywhere in the image.
 ```
 
-## 05 — PRAISES
+## 05 — PRAISES / SMILES
 
 ```text
-Using the attached cast sheet for Sione. A bright, fresh morning. Sione sits on the front step of his house in his mustard-yellow shirt, holding a small open songbook in both hands, singing joyfully with his face lifted and a real, happy smile, mouth clearly open in song. A few flowers by the step and a clear pale sky. The songbook pages show only soft blurred lines, not readable text or notes. Nothing in the sky suggests a face or a person.
+Using the attached cast sheet for Sione and Dad. A bright morning in the family kitchen. Sione, in his mustard-yellow shirt, stands holding a small open songbook in both hands, singing joyfully, mouth clearly open in song, face lifted. Dad, in his grey collared shirt, has paused at the counter and turned toward Sione with a big, warm, proud smile. His smile is clearly aimed at his singing son. Both faces are large enough to read from across a room. The songbook pages show only soft blurred lines, not readable text or notes. Dad is plainly Sione's ordinary father, exactly as on the cast sheet, face fully visible, no glow or light around him, not a silhouette, not seen only from behind.
 Style: soft watercolor with light colored-pencil linework, storybook illustration, visible paper texture. Gently stylized realism with normal child proportions; no oversized eyes, not anime, not chibi, not 3D, not photoreal. Quiet warm palette of dusk blue, soft lavender, lamplight gold, sage green and cream, low saturation. Soft natural light; no light rays, halos, sparkles or glowing outlines around anyone. Eye level, mid-shot, simple background with at most two or three suggested elements. 16:9 landscape. Keep the bottom third calm and empty of faces, hands and key action. No text, letters or writing anywhere in the image.
 ```
 
@@ -100,6 +100,13 @@ Style: soft watercolor with light colored-pencil linework, storybook illustratio
 ## 10 — ENFOLD
 
 ```text
-Using the attached cast sheet for Sione. Early morning at a window seat. Sione sits wrapped snugly in a thick, soft patchwork quilt pulled all the way around him up to his chin, only his peaceful face and a little of his curly hair showing. His eyes are gently open, content and safe. An open set of scriptures rests on the windowsill beside him, with pages showing only soft blurred lines. Pale gold morning light outside. He is alone; the quilt is doing the hugging, and nothing in the light or window suggests a figure or a person.
+Using the attached cast sheet for Sione and Dad. Early morning on the living-room couch in soft window light. Dad, in his grey collared shirt, wraps a thick, soft patchwork quilt around Sione and folds him into a big, gentle hug, his arms enclosing both the quilt and the boy. Sione, in pale-blue pajamas, is snug inside the quilt up to his chin, his face peaceful, content and safe, eyes softly closed. Dad's face is visible and tender. The feeling is being completely surrounded by love. Dad is plainly Sione's ordinary father, exactly as on the cast sheet, face fully visible, no glow or light around him, not a silhouette, not seen only from behind.
+Style: soft watercolor with light colored-pencil linework, storybook illustration, visible paper texture. Gently stylized realism with normal child proportions; no oversized eyes, not anime, not chibi, not 3D, not photoreal. Quiet warm palette of dusk blue, soft lavender, lamplight gold, sage green and cream, low saturation. Soft natural light; no light rays, halos, sparkles or glowing outlines around anyone. Eye level, mid-shot, simple background with at most two or three suggested elements. 16:9 landscape. Keep the bottom third calm and empty of faces, hands and key action. No text, letters or writing anywhere in the image.
+```
+
+## 11 — Title image
+
+```text
+Using the attached cast sheet for Sione. Dusk. Sione, in pale-blue pajamas, kneels on a cushion at his bedroom window with his arms resting on the sill, looking out calmly at a deep blue evening sky where the first single star has appeared. A small lamp glows warm behind him in the room. Peaceful, hushed, inviting. Place Sione and the window in the upper two-thirds; leave the bottom third as a calm, plain area of wall and cushion for a title. Nothing in the sky suggests a face or a person.
 Style: soft watercolor with light colored-pencil linework, storybook illustration, visible paper texture. Gently stylized realism with normal child proportions; no oversized eyes, not anime, not chibi, not 3D, not photoreal. Quiet warm palette of dusk blue, soft lavender, lamplight gold, sage green and cream, low saturation. Soft natural light; no light rays, halos, sparkles or glowing outlines around anyone. Eye level, mid-shot, simple background with at most two or three suggested elements. 16:9 landscape. Keep the bottom third calm and empty of faces, hands and key action. No text, letters or writing anywhere in the image.
 ```

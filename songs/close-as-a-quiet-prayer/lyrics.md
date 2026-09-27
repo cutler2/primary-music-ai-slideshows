@@ -4,7 +4,7 @@
 © 2017, 2025 Sally DeFord. This song may be copied for incidental, noncommercial Church or home use.
 Related scriptures: Alma 33:3–11; Acts 17:27–28.
 
-**Verified (2026-09-26):** hymn number, credits, and notice from the hymn page in Gospel Library. **Wording:** supplied by the music leader. It has not yet been compared line by line with Gospel Library; check it before the deck is built.
+**Verified (2026-09-26):** hymn number, credits, and notice from the hymn page in Gospel Library. **Wording:** supplied and confirmed by the music leader, 2026-09-26.
 
 **Scope:** all three verses and the bridge. Line breaks below are the slide breaks, with at most two lines per slide and one blank line between slides.
 

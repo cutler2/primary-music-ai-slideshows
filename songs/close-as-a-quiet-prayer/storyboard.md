@@ -8,7 +8,7 @@ Heavenly Father is always near and always hears a child's prayer, spoken, whispe
 
 The illustrations follow **one child through different kinds of prayer**. Following the method's warning, each slide needs its own visual vocabulary so the prayer pictures don't all look alike: night/day, whisper, thank, praise, alone, anywhere, kneel with words, silent heart, enfold. The **refrain always uses the same image**. That repetition gives the children an anchor: when the picture comes back, so does the phrase.
 
-**Scope:** 13 slide positions from **10 unique images** plus the cast sheet. No title slide unless requested.
+**Scope:** a title slide plus 13 slide positions, from **11 unique images** plus the cast sheet. **For Sunday 2026-09-27.**
 
 ## Visual specification (new for this song)
 
@@ -25,7 +25,7 @@ The illustrations follow **one child through different kinds of prayer**. Follow
 
 **How prayer is shown:** Latter-day Saint children pray with **arms folded across the chest, head bowed, eyes closed**, not with palms pressed together. This applies to every prayer image.
 
-## Cast (this song only; proposed, pending the music leader's approval)
+## Cast (this song only)
 
 A Tongan-American family in a modern suburban home. Ordinary modern clothes, no costume or cultural dress.
 
@@ -41,8 +41,7 @@ Intentional change: Sione wears pajamas in the night scenes (the right half of i
 ## Sacred-imagery decisions
 
 - **No depiction of Heavenly Father** in any form: no figure, face, hand, silhouette, or human shape in light, cloud, window glow, or shadow.
-- **"He smiles" (slide 5):** shown through the child's own joy as he praises. Nothing in the sky or light suggests a face or a person.
-- **"His love will enfold me" (slide 12):** shown as a warm quilt wrapped around the child. Not a hug from an unseen figure, and not a parent standing in for God.
+- **An earthly father stands in for Heavenly Father's love (music leader's decision).** On two slides, Dad shows what the lyric says Heavenly Father does: he **smiles** as Sione praises (slide 5), and he **enfolds** Sione in a hug and a quilt (slide 12). A child's own father's love is the picture a young child already understands. Guardrails: Dad is always recognizably *Dad*, with his face visible and matching the cast sheet, ordinary clothes, an ordinary home. He is never shown glowing, lit from behind, as a silhouette, only from the back, or as disembodied hands, and he never appears in the sky or in light. He is a human example, not a depiction.
 - **Light is ordinary light:** lamps, windows, sunrise. No beams landing on the child and no glowing outlines.
 
 ## Slide sequence
@@ -51,13 +50,14 @@ Type key: **C** = contemporary · **Y** = symbolic
 
 | Pos | Lyric (opens with) | Image | Key word | Type | Central cue |
 |---|---|---|---|---|---|
+| T | Title: *Close as a Quiet Prayer* | 11 | — | C | Dusk. Sione at his bedroom window in pajamas, looking out at the first evening star, lamp on behind him. Quiet invitation to the song. |
 | **Verse 1** ||||||
 | 1 | Moment by moment… / My Heavenly Father… | 01 | NIGHT OR DAY | C | A two-part picture: left half, Sione praying in bright daylight in his room; right half, the same spot at night under a starry window, in pajamas. Clear left-to-right order. |
 | 2 | And He will be near when I whisper… | 02 | WHISPER | C | Night. Sione kneeling at his bed, arms folded, head bowed, lips just barely moving. **Mele asleep in the next bed** tells you why he has to whisper. |
 | 3 | He is close as a quiet prayer… | 03 | QUIET PRAYER | C | **Refrain anchor.** Sione alone, sitting cross-legged on his bed by a lamp, arms folded, eyes closed, completely calm. Still and simple; nothing else happening. |
 | **Verse 2** ||||||
 | 4 | When I am thankful for blessings… | 04 | THANKFUL | C | Family dinner table with food clearly visible; everyone's arms folded, and Sione saying the blessing on the food. |
-| 5 | He smiles as I offer my praises… | 05 | PRAISES | C | Morning, sitting on the front step, Sione singing happily from a small open hymnbook, face lifted and smiling. |
+| 5 | He smiles as I offer my praises… | 05 | PRAISES / SMILES | C | Morning in the kitchen: Sione singing happily from a small open songbook, and Dad, pausing at the counter, turns and **smiles warmly at him**. The smile is aimed at the singing child. |
 | 6 | And when I'm alone and in need of a friend… | 06 | ALONE | C | Sione sitting by himself on a bench at the edge of a schoolyard, shoulders down; other children play far away and out of focus. |
 | 7 | He is close as a quiet prayer… | 03 | QUIET PRAYER | — | Refrain image repeated. |
 | **Bridge** ||||||
@@ -66,23 +66,24 @@ Type key: **C** = contemporary · **Y** = symbolic
 | **Verse 3** ||||||
 | 10 | Whether I'm kneeling to seek Him with words… | 08 | KNEELING | C | Family prayer in the living room: the whole family kneeling in a circle, arms folded, and **Sione speaking aloud**, his mouth clearly open. Daytime, unlike the night whisper. |
 | 11 | Or silently praying, my heart will be heard… | 09 | SILENT HEART | C | A busy, noisy moment (a crowded soccer sideline) with Sione standing still in the middle, eyes closed, **one hand over his heart**, while others around him keep cheering. |
-| 12 | His love will enfold me… | 10 | ENFOLD | Y | Early morning at a window, Sione wrapped snugly in a thick patterned quilt up to his chin, peaceful, an open set of scriptures on the sill beside him. |
+| 12 | His love will enfold me… | 10 | ENFOLD | C | Early morning on the couch: Dad wraps a thick patchwork quilt around Sione and **folds him into a big hug**; Sione's face is peaceful and safe. |
 | 13 | He is close as a quiet prayer… | 03 | QUIET PRAYER | — | Refrain image repeated; the song closes where each verse did. |
 
 ## Where each slide could fall short of 4/5
 
-- **05 PRAISES** is the riskiest: a singing child could read as generic "singing." The small hymnbook and lifted, joyful face have to carry "praise." If it scores 3, use a family singing a hymn together at home.
+- **05 PRAISES / SMILES:** the singing and Dad's smile both have to read. If Dad's smile gets lost, bring him closer and make his smile larger in the frame.
 - **01 NIGHT OR DAY:** the split has to read at a glance. If the generator blends the two halves, generate day and night separately and join them at assembly.
 - **02 vs 03:** both are nighttime and bedside. WHISPER depends on the sleeping sister, and QUIET PRAYER on stillness, sitting up and being alone. Check that they look different from across the room.
 - **07 ANYWHERE:** three panels must stay large enough to read. Keep them to three.
 
 ## Come, Follow Me
 
-A natural tie is **Daniel 6**: Daniel kept praying three times a day when it was forbidden, which fits "anytime, anywhere." Check which Sunday Daniel falls on in the 2026 schedule before planning around it. Don't force a link to a lesson it doesn't fit.
+No Come, Follow Me tie was planned for 2026-09-27; the deck is being made the night before. **Daniel 6** (praying three times a day when it was forbidden) remains a good tie for "anytime, anywhere" whenever it comes up in the schedule.
 
 ## Decisions log
 
-- 2026-09-26: New cast and style designed for this song, not carried over from Holding Hands. Refrain uses a single repeated image. Prayer is always shown with folded arms. Cast pending approval.
+- 2026-09-26: New cast and style designed for this song, not carried over from Holding Hands. Refrain uses a single repeated image. Prayer is always shown with folded arms. Cast approved as proposed.
+- 2026-09-26: Title slide added (image 11). Dad stands in for Heavenly Father's love on slides 5 (smiles) and 12 (enfold), with guardrails; the music leader's decision. Lyrics confirmed. Target Sunday 2026-09-27.
 
 ## Review scores
 
