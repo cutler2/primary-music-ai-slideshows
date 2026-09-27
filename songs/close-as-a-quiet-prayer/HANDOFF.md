@@ -6,7 +6,7 @@ Read this first. Update it before you stop. `storyboard.md` is authoritative for
 
 - **Owner:** none. The deck is done for Sunday 2026-09-27.
 - **Action:** none required. Optional: tidy the slide 07 panel borders behind the lyrics; reconcile this branch with the music leader's local repo (`C:\Users\cutle\Coding\Primary`).
-- **Deliverable:** `slideshow.pptx` (14 slides). Also copied to `Primary Music\Close as a Quiet Prayer\Close as a Quiet Prayer.pptx`.
+- **Deliverables:** `slideshow.pptx` (14 slides) and `slideshow - grid.pptx` (5 pages: title, then one per section at 1/4 size on black; `build_grid.py`). Also copied to `Primary Music\Close as a Quiet Prayer\Close as a Quiet Prayer.pptx`.
 
 ## Status
 
@@ -37,6 +37,7 @@ Prompt: `drafting` → `ready` → `revised`. Image: `—` → `generated` → `
 
 Newest first.
 
+- 2026-09-27 · Claude · Added grid view: one page per section (V1 3, V2 4, bridge 2, V3 4), short rows centered, title full size.
 - 2026-09-27 · Claude · Reviewed all 12 images (all 16:9 at 1672×941, none below 4), built the illustrated deck, and switched backgrounds to JPEG (6.5 MB).
 - 2026-09-27 · ChatGPT · Generated 00–11; saved to the local repo, since committing to GitHub from ChatGPT kept failing.
 - 2026-09-26 · Claude · Title slide (11) added; 05 and 10 revised to use Dad per music leader; lyrics confirmed; target set to 2026-09-27; build_deck.py added with text-only fallback.
