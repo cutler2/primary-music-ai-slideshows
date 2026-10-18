@@ -8,10 +8,11 @@ Converted in place from the existing 2026 Primary Program Google Slides presenta
 
 ## Final structure
 - Slide 58: title slide only — dark charcoal background, centered white title.
-- Slides 59–62: opening block shown in full on every slide:
+- Slides 59–60: first opening block shown in full on each slide:
   - The hearts of the children
   - have turned to their fathers,
-  - Have turned, have turned, have turned,
+  - Have turned, have turned, have turned.
+- Slides 61–62: second opening block shown in full on each slide:
   - Because of the truth they have learned
   - from Elijah,
   - Have learned, have learned, have learned.
@@ -51,6 +52,7 @@ Converted in place from the existing 2026 Primary Program Google Slides presenta
 - 69: “Have turned, have turned, have turned.”
 
 ## Conversion decisions
+- Updated 2026-10-18: split the original six-line opening lyric block into two three-line shared blocks (slides 59–60 and 61–62).
 - Preserved all 11 existing illustrations.
 - No adjacent or reprise slides used the identical source image, so no slide was removed solely as a highlight-only duplicate.
 - Preserved the existing 12-slide song structure because each lyric-advance slide retains a distinct visual cue.
