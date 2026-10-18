@@ -11,7 +11,7 @@ Converted in place from the existing 2026 Primary Program Google Slides presenta
 - Slides 59–60: first opening block shown in full on each slide:
   - The hearts of the children
   - have turned to their fathers,
-  - Have turned, have turned, have turned.
+  - Have turned, have turned, have turned,
 - Slides 61–62: second opening block shown in full on each slide:
   - Because of the truth they have learned
   - from Elijah,
