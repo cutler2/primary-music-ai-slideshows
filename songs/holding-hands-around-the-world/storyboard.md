@@ -85,3 +85,30 @@ Type: **C** contemporary · **S** scriptural · **Y** symbolic
 - PNG export: LibreOffice headless → PDF → `pdftoppm -png -r 144` → 1920 × 1080.
 
 Deliverables (in the music leader's local folder): main deck (27 slides), grid deck (9), 36 PNGs, MP4 lyric video.
+
+
+## 2026 Primary Program — full-image lyric overlay conversion (2026-10-18)
+
+The original program deck section was converted **in place** to the **Illustrated Full-Image Lyric Overlay Deck** format. The existing approved scene illustrations were preserved; no new art was required.
+
+### Final shared lyric blocks
+
+| Block | Program slides | Complete lyrics displayed on every slide in block | Highlight progression |
+|---|---:|---|---|
+| Verse 1A | 81–84 | We are children singing all around the world, / Happy voices ringing out the joyful word. / We are children glowing with the gospel light, / Standing tall, walking strong, choosing right. | One line per illustration, lines 1→4 |
+| Verse 1B | 85–88 | We are children leading out in ev’ry land / Who believe in keeping all the Lord’s commands. / Like the stripling warriors we go forth in faith, / For we know that the Lord is our strength. | One line per illustration, lines 1→4 |
+| Chorus | 89–93 | We are children holding hands around the world, / Like an army with the gospel flag unfurled. / We are led by His light, / And we love truth and right. / We are building the kingdom of God. | One line per illustration, lines 1→5 |
+| Verse 2A | 94–97 | We are children sharing all around the world, / Leading other children to the gospel fold. / With the strength of youth, we do the Savior’s work. / With our hearts and our hands we will serve. | One line per illustration, lines 1→4 |
+| Verse 2B | 98–101 | We are cov’nant children with a gift to give. / We will teach the gospel by the way we live. / With each word and action, we will testify: / We believe, and we serve Jesus Christ. | One line per illustration, lines 1→4 |
+| Closing chorus | 102–106 | Same five-line chorus block as slides 89–93 | Same line 1→5 progression |
+
+### Formatting decisions
+
+- Slide 80 remains the title position and now matches the program title-slide treatment: dark charcoal background, centered white title, no illustration.
+- Existing scene images p01–p21 remain full-bleed. Chorus images p09–p13 are intentionally reused in the closing chorus.
+- A restrained translucent dark scrim covers the complete slide edge to edge.
+- Lyric typography is consistent across the song: centered **Arial Bold, 30 pt**, fixed wide text box, no emphasis-driven resizing or repositioning.
+- Active lyric color is cyan (matching the established program treatment); inactive lyrics remain white.
+- Original punctuation and authorized 2026 hymnbook wording are preserved.
+- No slides were added solely to advance emphasis on the same illustration.
+- Structural readback after editing confirmed the final lyrics and block assignment on slides 80–106.
