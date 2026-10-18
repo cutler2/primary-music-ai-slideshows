@@ -24,6 +24,18 @@ Use songs/<song-slug>/ for each song, with:
 
 Create those artifacts as work reaches each stage, not as empty deliverables. Retain assembly source and rendered previews in the song folder when useful for revisions. Use root references/ for shared research and reusable reference assets. Preserve passing slides and user edits when continuing work.
 
+## Choose the output mode
+
+Use the governing instructions to select or preserve the requested presentation style. The supported output modes are:
+
+- **Standard illustrated cue deck:** short lyric segments over or beside image-led memory cues; normally no more than two displayed lyric lines per slide.
+- **Illustrated full-image lyric overlay deck:** full-bleed artwork with a translucent dark overlay covering the entire slide, wide overlaid lyrics, one consistent font size across the deck, no unintended word wrapping, and color-only emphasis for the current lyric line. A repeated chorus may show the entire chorus on each slide while the highlighted line advances.
+- **Text-only singalong deck:** no illustrations; follow the dedicated text-slide design spec.
+
+Default to the standard illustrated cue deck when creating a new illustrated slideshow unless the user requests a singalong/full-lyric overlay treatment or existing work clearly uses another mode. Preserve the current mode when revising an existing deck unless the user asks to convert it. A conversion to full-image lyric overlay mode should reuse approved artwork whenever possible rather than regenerate it.
+
+For the full-image lyric overlay mode, choose the largest **single common lyric size** that lets every intended line fit on one line and every lyric block fit vertically. Never enlarge the active line. Highlight it by color only; keep size, weight, font, alignment, and placement unchanged from the surrounding lyrics. Render and inspect the result to verify edge-to-edge overlay coverage, consistent sizing, and zero unintended wraps.
+
 ## Plan before illustrating
 
 Follow the full Required Creation Workflow in the governing instructions. Present the complete slide sequence and visual concept before generating images. This is a planning step, not an automatic approval gate; continue authorized work unless the user requested approval or an unresolved choice materially affects the result.
