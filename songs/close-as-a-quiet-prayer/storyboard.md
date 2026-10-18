@@ -82,6 +82,7 @@ No Come, Follow Me tie was planned for 2026-09-27; the deck is being made the ni
 
 ## Decisions log
 
+- 2026-10-18: Converted this song in-place in the 2026 Primary Program Google Slides presentation (slides 21–34) to **Illustrated Full-Image Lyric Overlay** mode. Reused the approved images, including title image 11. Final treatment: full-slide dark overlay at 42% opacity; Arial Bold; one common 33 pt lyric size; centered text spanning nearly the full safe width; inactive lyrics white; active first lyric line cyan by color only. Emphasis remains stable for the life of each illustration; no highlight-only duplicate slides were added. Existing authorized line breaks were preserved. Final exported render was inspected with no unintended wrapping, exposed slide background, embedded blank margins, or coverage problems.
 - 2026-09-26: New cast and style designed for this song, not carried over from Holding Hands. Refrain uses a single repeated image. Prayer is always shown with folded arms. Cast approved as proposed.
 - 2026-09-26: Title slide added (image 11). Dad stands in for Heavenly Father's love on slides 5 (smiles) and 12 (enfold), with guardrails; the music leader's decision. Lyrics confirmed. Target Sunday 2026-09-27.
 
