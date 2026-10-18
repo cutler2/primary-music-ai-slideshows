@@ -459,7 +459,7 @@ Relevant Church guidance:
 * Use a simple, highly legible font.
 * Use strong contrast between lyrics and the background.
 * Use short lyric segments rather than dense paragraphs.
-* Group natural lyric phrases when one visual can teach them together, with a maximum of two lyric lines on a slide. Split an overloaded pair into separate visual moments; do not force each printed line onto its own slide.
+* In the **standard illustrated cue deck** mode, group natural lyric phrases when one visual can teach them together, with a maximum of two lyric lines on a slide. Split an overloaded pair into separate visual moments; do not force each printed line onto its own slide. The optional full-image lyric overlay mode below may show a larger multi-line lyric block.
 * Place manual line breaks at phrase boundaries rather than allowing an awkward mid-phrase wrap.
 * Preserve the song’s exact authorized wording.
 * Verify the number and wording against the current *Hymns—For Home and Church* in Gospel Library before building. The 2026 book renumbered songs carried over from the *Children’s Songbook* and the *Friend*, and revised some wording (for example, “There are children” became “We are children” in hymn 1011). Record what was verified and where.
@@ -481,6 +481,33 @@ Relevant Church guidance:
 * Do not include a title slide unless it is helpful or requested.
 * Avoid unnecessary animations, transitions, or visual effects.
 * Keep the deck focused on singing rather than passive viewing.
+
+# Illustrated Full-Image Lyric Overlay Decks
+
+Use this as an optional output mode when the user wants an illustrated singalong deck that keeps the artwork visible while showing more lyric context than the standard lower-band illustrated layout.
+
+This mode does **not** replace the standard illustrated slideshow. Treat these as distinct output choices:
+
+1. **Standard illustrated cue deck** — image-led memory cues with short lyric segments, normally no more than two displayed lyric lines per slide.
+2. **Illustrated full-image lyric overlay deck** — full-bleed artwork with a full-slide readability overlay and larger lyric context, including progressive chorus highlighting.
+3. **Text-only singalong deck** — lyrics without illustrations, governed by [references/text-slide-design-spec.md](references/text-slide-design-spec.md).
+
+For the illustrated full-image lyric overlay mode:
+
+* Keep the illustration full-bleed across the entire 16:9 slide.
+* Place a restrained translucent dark overlay over the **entire picture**, edge to edge. Do not confine the readability treatment to a lower band or partial-height panel. Keep enough image detail visible that the artwork still functions as a memory cue.
+* Place the lyric text over the image in a wide text box using nearly the full safe width of the slide, with modest projector-safe side gutters.
+* Treat intentional lyric line breaks as authoritative. **Do not allow unintended word wrapping.** If any intended line wraps, reduce the common font size until every intended line fits on one line.
+* Use **one consistent lyric font size across the entire deck or song section**. Compute or choose the largest common size that allows the longest intended line to fit without wrapping and the tallest lyric block to fit vertically.
+* Keep font family, font size, weight, alignment, and placement consistent from slide to slide. Do not make an emphasized line larger, smaller, bolder, or otherwise typographically different.
+* Emphasize the currently sung line by **color only**. All emphasized and non-emphasized lyric lines must remain the same size and weight.
+* For a chorus or other repeated multi-line section, it is acceptable to show the **entire chorus on every chorus slide**, normally up to four lines, while advancing the highlight one line at a time. Keep the other lines visible so children can anticipate what comes next.
+* The background artwork may change from one highlighted chorus slide to the next when the storyboard calls for visual progression. It may also repeat when repetition strengthens memory. Do not force identical artwork solely because the lyric block repeats.
+* Use a simple highly legible font, strong contrast, and centered or otherwise stable alignment. The text should fill as much useful space as possible without wrapping, crowding safe margins, or obscuring the whole visual cue.
+* Preserve the exact authorized lyric wording, punctuation, and intended line order.
+* Render and inspect the finished slides. Confirm that every intended line remains a single line, the lyric size is identical across slides, the full-slide overlay reaches every edge, and the active line differs only by color.
+
+When converting an existing illustrated deck to this mode, preserve the approved artwork whenever possible. Rebuild the lyric treatment and slide formatting rather than regenerating images that already pass the visual-memory test.
 
 # Text-only Singalong Decks
 
@@ -512,7 +539,7 @@ For every illustrated Primary slideshow:
 10. Create the illustrations as one matched set.
 11. Review the illustrations together before assembling the slides; check actual aspect ratios, cue clarity, and style drift.
 12. Correct inconsistent characters, mismatched actions, historical errors, anachronisms, inappropriate sacred imagery, and overly glamorous portrayals.
-13. Assemble the slideshow with large, accurate lyrics.
+13. Assemble the slideshow using the selected output mode: standard illustrated cue deck, illustrated full-image lyric overlay deck, or text-only singalong deck.
 14. Render or preview the completed deck.
 15. Inspect every rendered slide at full size and at projected-room viewing distance for readability, cropping, image quality, spelling, and lyric accuracy.
 16. With the lyric text mentally covered, score every image-to-lyric connection from 1 to 5.
@@ -581,7 +608,7 @@ Before delivering an illustrated Primary slideshow, confirm all of the following
 * All slides use the intended dimensions.
 * Images are sharp and properly cropped.
 * No generated text or visual gibberish is visible.
-* Fonts, text sizes, and placements are consistent.
+* Fonts, text sizes, and placements are consistent. In full-image lyric overlay mode, one common lyric size is used throughout and emphasis changes color only.
 * Contrast is sufficient on every slide.
 * No slide contains unnecessary clutter.
 * The deck opens and displays correctly.
