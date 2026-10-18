@@ -16,10 +16,11 @@ Converted in place from the existing 2026 Primary Program Google Slides presenta
   - Because of the truth they have learned
   - from Elijah,
   - Have learned, have learned, have learned.
-- Slides 63–67: middle block shown in full on every slide:
+- Slides 63–64: first middle block shown in full on each slide:
   - And we as the children can seek out
   - our loved ones,
   - Preserving their names and their memory.
+- Slides 65–67: second middle block shown in full on each slide:
   - We can strive to be worthy
   - to kneel in the temple
   - And bind them to us for eternity.
@@ -66,3 +67,5 @@ A live structural readback confirmed:
 - all lyric slides use the same font family, weight, size, alignment, and text-box geometry;
 - cyan highlighting changes only foreground color;
 - all intended line breaks are explicit in the slide text.
+
+- 2026-10-18 refinement: split the original six-line middle block into two three-line blocks on slides 63–64 and 65–67. Artwork, typography, and phrase highlight sequence are preserved.
