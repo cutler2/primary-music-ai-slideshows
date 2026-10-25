@@ -1,0 +1,126 @@
+{
+  "titleSlideId": "h220c9fa8d8ee0741_0_410",
+  "fontPt": 37,
+  "blocks": [
+    "There’s a light within me,\nThe perfect light of Christ.\nAnd I have made a promise\nTo keep it burning bright",
+    "By walking in His footsteps\nAnd following His plan\nIn every time,\nIn every place,\nIn every way I can.",
+    "I will shine like a candle in the dark.\nAll it takes\nto make a difference is a spark.",
+    "And it’s easy to see\nthat the brightest I’ll be\nIs when I let His light shine through me.",
+    "One simple act of kindness\nWill lift the lonely soul.\nOne gentle word that’s spoken\nTurns sadness to hope.",
+    "One choice to be like Jesus will\nSpread the love He gives\nAnd one by one the world becomes\nA better place to live.",
+    "And it’s easy to see\nthat the brightest I’ll be\nIs when I let His light shine through me.\nWhen I let His light shine through me."
+  ],
+  "slides": [
+    {
+      "n": 76,
+      "scene": 1,
+      "block": 0,
+      "active": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cue": "Promise kept; Christlike light shown through action",
+      "score": 4
+    },
+    {
+      "n": 77,
+      "scene": 2,
+      "block": 1,
+      "active": [
+        0,
+        1
+      ],
+      "cue": "Following a good example",
+      "score": 4
+    },
+    {
+      "n": 78,
+      "scene": 3,
+      "block": 1,
+      "active": [
+        2,
+        3,
+        4
+      ],
+      "cue": "Helping in every time/place",
+      "score": 4
+    },
+    {
+      "n": 79,
+      "scene": 4,
+      "block": 2,
+      "active": [
+        0,
+        1,
+        2
+      ],
+      "cue": "Candle in the dark; spark",
+      "score": 5
+    },
+    {
+      "n": 80,
+      "scene": 5,
+      "block": 3,
+      "active": [
+        0,
+        1,
+        2
+      ],
+      "cue": "Letting light help someone",
+      "score": 4
+    },
+    {
+      "n": 81,
+      "scene": 6,
+      "block": 4,
+      "active": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cue": "Kindness and gentle words turn loneliness to hope",
+      "score": 5
+    },
+    {
+      "n": 82,
+      "scene": 7,
+      "block": 5,
+      "active": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cue": "Love spreading one by one",
+      "score": 4
+    },
+    {
+      "n": 83,
+      "scene": 4,
+      "block": 2,
+      "active": [
+        0,
+        1,
+        2
+      ],
+      "cue": "Candle in the dark; spark reprise",
+      "score": 5
+    },
+    {
+      "n": 84,
+      "scene": 5,
+      "block": 6,
+      "active": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cue": "Light through service; closing repetition",
+      "score": 4
+    }
+  ]
+}
