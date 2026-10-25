@@ -1,0 +1,1738 @@
+[
+  {
+    "createSlide": {
+      "objectId": "temple_02_20261024",
+      "insertionIndex": 63,
+      "slideLayoutReference": {
+        "predefinedLayout": "BLANK"
+      }
+    }
+  },
+  {
+    "createSlide": {
+      "objectId": "temple_04_20261024",
+      "insertionIndex": 65,
+      "slideLayoutReference": {
+        "predefinedLayout": "BLANK"
+      }
+    }
+  },
+  {
+    "createSlide": {
+      "objectId": "temple_06_20261024",
+      "insertionIndex": 67,
+      "slideLayoutReference": {
+        "predefinedLayout": "BLANK"
+      }
+    }
+  },
+  {
+    "createSlide": {
+      "objectId": "temple_08_20261024",
+      "insertionIndex": 69,
+      "slideLayoutReference": {
+        "predefinedLayout": "BLANK"
+      }
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_305"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_306"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_307"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_01_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/01.png",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_304",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_01_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_304",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_01_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_01_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_304",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_01_lyrics",
+      "text": "I love to see the temple.\nI’m going there someday\nTo feel the Holy Spirit,\nTo listen and to pray.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_01_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_01_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_01_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_01_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 0,
+        "endIndex": 49
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_02_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/02.png",
+      "elementProperties": {
+        "pageObjectId": "temple_02_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_02_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "temple_02_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_02_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_02_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "temple_02_20261024",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_02_lyrics",
+      "text": "I love to see the temple.\nI’m going there someday\nTo feel the Holy Spirit,\nTo listen and to pray.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_02_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_02_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_02_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_02_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 50,
+        "endIndex": 97
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_311"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_312"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_313"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_03_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/03.png",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_310",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_03_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_310",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_03_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_03_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_310",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_03_lyrics",
+      "text": "For the temple is a house of God,\nA place of love and beauty.\nI’ll prepare myself while I am young;\nThis is my sacred duty.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_03_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_03_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_03_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_03_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 0,
+        "endIndex": 61
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_04_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/04.png",
+      "elementProperties": {
+        "pageObjectId": "temple_04_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_04_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "temple_04_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_04_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_04_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "temple_04_20261024",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_04_lyrics",
+      "text": "For the temple is a house of God,\nA place of love and beauty.\nI’ll prepare myself while I am young;\nThis is my sacred duty.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_04_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_04_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_04_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_04_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 62,
+        "endIndex": 123
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_317"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_318"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_319"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_05_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/05.png",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_316",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_05_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_316",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_05_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_05_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_316",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_05_lyrics",
+      "text": "I love to see the temple.\nI’ll go inside someday.\nI’ll cov’nant with my Father;\nI’ll promise to obey.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_05_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_05_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_05_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_05_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 0,
+        "endIndex": 49
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_06_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/06.png",
+      "elementProperties": {
+        "pageObjectId": "temple_06_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_06_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "temple_06_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_06_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_06_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "temple_06_20261024",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_06_lyrics",
+      "text": "I love to see the temple.\nI’ll go inside someday.\nI’ll cov’nant with my Father;\nI’ll promise to obey.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_06_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_06_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_06_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_06_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 50,
+        "endIndex": 101
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_323"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_324"
+    }
+  },
+  {
+    "deleteObject": {
+      "objectId": "h220c9fa8d8ee0741_0_325"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_07_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/07.png",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_322",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_07_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_322",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_07_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_07_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "h220c9fa8d8ee0741_0_322",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_07_lyrics",
+      "text": "For the temple is a holy place\nWhere we are sealed together.\nAs a child of God, I’ve learned this truth:\nA fam’ly is forever.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_07_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_07_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_07_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_07_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 0,
+        "endIndex": 60
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  },
+  {
+    "createImage": {
+      "objectId": "temple_08_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/08.png",
+      "elementProperties": {
+        "pageObjectId": "temple_08_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_08_overlay",
+      "shapeType": "RECTANGLE",
+      "elementProperties": {
+        "pageObjectId": "temple_08_20261024",
+        "size": {
+          "width": {
+            "magnitude": 720,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 405,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_08_overlay",
+      "shapeProperties": {
+        "shapeBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.0196078431372549,
+                "green": 0.03137254901960784,
+                "blue": 0.0392156862745098
+              }
+            },
+            "alpha": 0.42
+          }
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "createShape": {
+      "objectId": "temple_08_lyrics",
+      "shapeType": "TEXT_BOX",
+      "elementProperties": {
+        "pageObjectId": "temple_08_20261024",
+        "size": {
+          "width": {
+            "magnitude": 696,
+            "unit": "PT"
+          },
+          "height": {
+            "magnitude": 175,
+            "unit": "PT"
+          }
+        },
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "translateX": 12,
+          "translateY": 219,
+          "unit": "PT"
+        }
+      }
+    }
+  },
+  {
+    "insertText": {
+      "objectId": "temple_08_lyrics",
+      "text": "For the temple is a holy place\nWhere we are sealed together.\nAs a child of God, I’ve learned this truth:\nA fam’ly is forever.",
+      "insertionIndex": 0
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_08_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "fontFamily": "Arial",
+        "fontSize": {
+          "magnitude": 35,
+          "unit": "PT"
+        },
+        "bold": true,
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        }
+      },
+      "fields": "fontFamily,fontSize,bold,foregroundColor"
+    }
+  },
+  {
+    "updateParagraphStyle": {
+      "objectId": "temple_08_lyrics",
+      "textRange": {
+        "type": "ALL"
+      },
+      "style": {
+        "alignment": "CENTER",
+        "lineSpacing": 100,
+        "spaceAbove": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "spaceBelow": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentStart": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentEnd": {
+          "magnitude": 0,
+          "unit": "PT"
+        },
+        "indentFirstLine": {
+          "magnitude": 0,
+          "unit": "PT"
+        }
+      },
+      "fields": "alignment,lineSpacing,spaceAbove,spaceBelow,indentStart,indentEnd,indentFirstLine"
+    }
+  },
+  {
+    "updateShapeProperties": {
+      "objectId": "temple_08_lyrics",
+      "shapeProperties": {
+        "contentAlignment": "MIDDLE",
+        "autofit": {
+          "autofitType": "NONE"
+        },
+        "shapeBackgroundFill": {
+          "propertyState": "NOT_RENDERED"
+        },
+        "outline": {
+          "propertyState": "NOT_RENDERED"
+        }
+      },
+      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+    }
+  },
+  {
+    "updateTextStyle": {
+      "objectId": "temple_08_lyrics",
+      "textRange": {
+        "type": "FIXED_RANGE",
+        "startIndex": 61,
+        "endIndex": 125
+      },
+      "style": {
+        "foregroundColor": {
+          "opaqueColor": {
+            "rgbColor": {
+              "red": 0.25098039215686274,
+              "green": 0.8980392156862745,
+              "blue": 0.9490196078431372
+            }
+          }
+        }
+      },
+      "fields": "foregroundColor"
+    }
+  }
+]
