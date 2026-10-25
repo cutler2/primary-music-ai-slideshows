@@ -53,7 +53,7 @@
   {
     "createImage": {
       "objectId": "temple_01_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/01.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/01.png",
       "elementProperties": {
         "pageObjectId": "h220c9fa8d8ee0741_0_304",
         "size": {
@@ -230,7 +230,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -258,7 +258,7 @@
   {
     "createImage": {
       "objectId": "temple_02_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/02.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/02.png",
       "elementProperties": {
         "pageObjectId": "temple_02_20261024",
         "size": {
@@ -435,7 +435,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -478,7 +478,7 @@
   {
     "createImage": {
       "objectId": "temple_03_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/03.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/03.png",
       "elementProperties": {
         "pageObjectId": "h220c9fa8d8ee0741_0_310",
         "size": {
@@ -655,7 +655,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -683,7 +683,7 @@
   {
     "createImage": {
       "objectId": "temple_04_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/04.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/04.png",
       "elementProperties": {
         "pageObjectId": "temple_04_20261024",
         "size": {
@@ -860,7 +860,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -903,7 +903,7 @@
   {
     "createImage": {
       "objectId": "temple_05_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/05.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/05.png",
       "elementProperties": {
         "pageObjectId": "h220c9fa8d8ee0741_0_316",
         "size": {
@@ -1080,7 +1080,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -1108,7 +1108,7 @@
   {
     "createImage": {
       "objectId": "temple_06_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/06.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/06.png",
       "elementProperties": {
         "pageObjectId": "temple_06_20261024",
         "size": {
@@ -1285,7 +1285,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "createImage": {
       "objectId": "temple_07_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/07.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/07.png",
       "elementProperties": {
         "pageObjectId": "h220c9fa8d8ee0741_0_322",
         "size": {
@@ -1505,7 +1505,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -1533,7 +1533,7 @@
   {
     "createImage": {
       "objectId": "temple_08_art",
-      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/claude/shared-song-handoffs/songs/i-love-to-see-the-temple/images/08.png",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/041cb6b/songs/i-love-to-see-the-temple/images/08.png",
       "elementProperties": {
         "pageObjectId": "temple_08_20261024",
         "size": {
@@ -1710,7 +1710,7 @@
           "propertyState": "NOT_RENDERED"
         }
       },
-      "fields": "contentAlignment,autofit,shapeBackgroundFill,outline"
+      "fields": "contentAlignment,autofit.autofitType,shapeBackgroundFill,outline"
     }
   },
   {
@@ -1736,3 +1736,4 @@
     }
   }
 ]
+

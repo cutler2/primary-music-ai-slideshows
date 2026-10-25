@@ -1,0 +1,132 @@
+{
+  "result": "passed",
+  "total_slides": 119,
+  "title_position": 62,
+  "lyric_positions": [
+    63,
+    70
+  ],
+  "lyric_count": 8,
+  "blocks": 4,
+  "verses_complete": 2,
+  "outside_slides_unchanged": 111,
+  "font_pt": 35,
+  "longest_line_pt": [
+    673.2,
+    "As a child of God, I’ve learned this truth:"
+  ],
+  "mapping": [
+    {
+      "position": 63,
+      "slide_id": "h220c9fa8d8ee0741_0_304",
+      "art": "images/01.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "A",
+      "active_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "position": 64,
+      "slide_id": "temple_02_20261024",
+      "art": "images/02.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "A",
+      "active_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "position": 65,
+      "slide_id": "h220c9fa8d8ee0741_0_310",
+      "art": "images/03.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "B",
+      "active_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "position": 66,
+      "slide_id": "temple_04_20261024",
+      "art": "images/04.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "B",
+      "active_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "position": 67,
+      "slide_id": "h220c9fa8d8ee0741_0_316",
+      "art": "images/05.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "C",
+      "active_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "position": 68,
+      "slide_id": "temple_06_20261024",
+      "art": "images/06.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "C",
+      "active_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "position": 69,
+      "slide_id": "h220c9fa8d8ee0741_0_322",
+      "art": "images/07.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "D",
+      "active_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "position": 70,
+      "slide_id": "temple_08_20261024",
+      "art": "images/08.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "block": "D",
+      "active_lines": [
+        3,
+        4
+      ]
+    }
+  ]
+}

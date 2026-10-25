@@ -1,0 +1,16 @@
+[
+  {
+    "replaceImage": {
+      "imageObjectId": "temple_08_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/bab5afc/songs/i-love-to-see-the-temple/images/08.png",
+      "imageReplaceMethod": "CENTER_CROP"
+    }
+  },
+  {
+    "replaceImage": {
+      "imageObjectId": "temple_03_art",
+      "url": "https://raw.githubusercontent.com/cutler2/primary-music-ai-slideshows/ff056c2/songs/i-love-to-see-the-temple/images/03.png",
+      "imageReplaceMethod": "CENTER_CROP"
+    }
+  }
+]

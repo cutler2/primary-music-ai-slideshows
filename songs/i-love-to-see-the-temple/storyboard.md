@@ -60,5 +60,5 @@ Official reference image: https://www.churchofjesuschrist.org/imgs/c78f22d629481
 Official Church photograph © Intellectual Reserve, Inc.; used as architectural reference, not claimed as AI art. Lyrics © 1980 Janice Kapp Perry, may be copied for incidental noncommercial church or home use. Illustrations are AI-generated teaching aids, not official Church artwork or publication.
 
 ## QA
-Pending generation, assembly, fresh readback and visual review. No completion claim yet.
+Completed in original deck: title 62, lyric slides 63–70; four four-line blocks and both verses complete. Native LARGE renders and reduced room-view reviewed. Image 08 reframed to protect album; image 03 raised after face overlap found in rendered slide. Final scores: 01=5, 02=5, 03=4, 04=4, 05=4, 06=4, 07=4, 08=4. All accepted. Other 111 slides verified unchanged. See QA.md for actual review, limitations and slide-map.json for IDs.
 

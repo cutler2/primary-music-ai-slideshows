@@ -1,5 +1,16 @@
 # Image prompts — I Love to See the Temple
 
+Final accepted images 03 and 08 use the following composition repairs in addition to their original prompts.
+
+## 08 — Final composition repair
+
+Composition correction for the attached family-album illustration, preserving the exact characters, clothes, warm gouache/colored-pencil style, family photos and home. Keep 16:9 full bleed. Reframe the entire group SMALLER and HIGHER so all five faces AND the complete open photo album with the child's pointing hand fit within the TOP 50 percent of the canvas. The album is the central memory cue, make it large enough to read but place its BOTTOM EDGE no lower than 50% image height. This is essential because four lines of large lyrics will occupy the lower 45% later. Extend fully painted calm rug and sofa foreground across the entire lower 48% with no blank strips. Do not put the family lower. No embedded text, writing, sacred figures, symbols, borders or watermarks.
+
+## 03 — Final composition repair
+
+Revise composition of the attached temple-garden illustration. Preserve exact five characters, clothes, warm gouache colored-pencil style, public flower garden, and faithful Fort Collins Colorado Temple architecture. Reduce and raise the family group so EVERY face including the little boy's mouth is completely above 46% of image height. Keep mother's loving hand on girl's shoulder, boy admiring flowers, and make those gestures fully ABOVE 50% image height. Keep the whole temple visible with single central tower, dark steeple and tiny Moroni. No extra spires, crosses, inscriptions or invented features. Extend fully painted calm garden foreground through lower 48% for four lines of lyrics added separately. No text, borders, blank strips, sacred gestures, ordinances or visible spirits. Wide 16:9 full bleed. This is specifically a layout repair: current boy's lower face would be obscured by text starting at 57% height, so move him higher; do not leave him in original position.
+
+
 Generated with built-in image generation. Use images/cast-sheet.png as character reference; official Fort Collins exterior photograph as architectural reference for 01,03,05,07.
 
 ## Style
